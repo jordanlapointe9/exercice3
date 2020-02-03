@@ -7,6 +7,13 @@ main > p {
     font-weight: bold;
 }
 
+<<<<<<< HEAD
+=======
+header {
+    border: 1px solid red;
+}
+
+>>>>>>> ccf61e91d69b405773323b591cbde60767586987
 footer {
     display: flex;
     flex-direction: row;
