@@ -7,6 +7,10 @@ main > p {
     font-weight: bold;
 }
 
+header {
+    border: 1px solid red;
+}
+
 footer {
     display: flex;
     flex-direction: row;
