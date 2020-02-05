@@ -5,8 +5,7 @@ body {
 main > p {
     color: blue;
     font-weight: bold;
-    border: 1px solid red;
-
+    border: 10px solid red;
 }
 
 header {
@@ -23,7 +22,7 @@ footer {
     justify-content: center;
     color: #111111;
     font-weight: bold;
-    border: 1px solid red;
+    border: 10px solid red;
 }
 
 footer div {
