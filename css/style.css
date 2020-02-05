@@ -2,6 +2,10 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+main {
+    background-color: yellow;
+}
+
 main > p {
     color: blue;
     font-weight: bold;
@@ -23,6 +27,7 @@ footer {
     color: #111111;
     font-weight: bold;
     border: 10px solid red;
+    background-color: green;
 }
 
 footer div {
